@@ -5,6 +5,7 @@ ML PACKAGES
 2. pip install scikit-learn 
 3. pip install scipy 
 4. pip install numpy
+5. pip install gunicorn 
 
 
 UI MATERIAL LIBRARIES
